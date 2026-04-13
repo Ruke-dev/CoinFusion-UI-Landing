@@ -132,10 +132,6 @@ serve dist
 ```
 Then, open your browser to the address provided by `serve` (usually `http://localhost:3000`).
 
-### Screenshot
-![CoinFusion UI Landing Page Screenshot](Images/right_side.png)
-*(This image is sourced from the `Images/` directory in the repository. For a better representation, replace with a full screenshot of the deployed page.)*
-
 ---
 
 ## Configuration Options
